@@ -1,0 +1,98 @@
+
+
+.login_home {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right, #006175 0%, #00a950 100%);
+
+    .wrapper {
+      width: 50%;
+      height: 70%;
+      display: flex;
+      align-items: center;
+      border-radius: 20px;
+      background: white;
+    }
+    
+    
+    .right{
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 60px 10px 0px 20px;
+    }
+    
+    .right p{
+      color: gray;
+    }
+    
+    .right span{
+      color: red;
+      cursor: pointer;
+    }
+    
+    .loginButton{
+      width: 150px;
+      padding: 15px 25px;
+      border-radius: 5px;
+      color: white;
+      display: flex;
+      align-items: center;
+      font-weight: bold;
+      margin-bottom: 20px;
+      cursor: pointer;
+    }
+    
+    .icon{
+      width: 20px;
+      height: 20px;
+      margin-right: 10px;
+    }
+    
+    input{
+      width: 200px;
+      padding: 15px 20px;
+      margin-bottom: 20px;
+      border-radius: 5px;
+    }
+    
+    .submit{
+      width: 200px;
+      background-image: linear-gradient(to right, #006175 0%, #00a950 100%);
+      color: white;
+      font-weight: bold;
+      border: none;
+      padding: 15px 20px;
+      border-radius: 5px;
+    }
+    
+    .Title{
+      position: absolute;
+      top: 120px;
+      color: gray;
+    }
+    
+    .link{
+      color: inherit;
+      text-decoration: none;
+    }
+    
+    .inputs{
+        color: red;
+        font-size: medium;
+        font-weight: 100;
+        margin-bottom: 5px;
+      
+    }
+
+    .warning{
+      margin-top: 10px;
+    }
+    
+    
+  }
+  
+ 

@@ -1,0 +1,19 @@
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 3:48:41 pm, error: Error: Illegal arguments: undefined, number
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 4:18:54 pm, error: Error: Error inserting data into users: error: column "params" of relation "users" does not exist
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 4:22:35 pm, error: Error: Error inserting data into users: error: column "params" of relation "users" does not exist
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 4:33:05 pm, error: Error: Error inserting data into users: error: syntax error at or near "0"
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 4:34:29 pm, error: Error: Error inserting data into users: error: syntax error at or near "0"
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 4:35:03 pm, error: Error: Error inserting data into users: error: syntax error at or near "0"
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 4:38:15 pm, error: Error: Error inserting data into users: error: column "params" of relation "users" does not exist
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 4:45:55 pm, error: ReferenceError: Cannot access 'userObject' before initialization
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 4:46:23 pm, error: ReferenceError: req is not defined
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 4:46:45 pm, error: Error: Error inserting data into users: error: column "body" of relation "users" does not exist
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 4:47:39 pm, error: Error: Error inserting data into users: error: column "body" of relation "users" does not exist
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 4:48:39 pm, error: ReferenceError: userObject is not defined
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 4:49:28 pm, error: ReferenceError: userObject is not defined
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 4:49:58 pm, error: Error: Error inserting data into users: error: column "body" of relation "users" does not exist
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 4:54:13 pm, error: Error: Error inserting data into users: error: column "body" of relation "users" does not exist
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 4:55:46 pm, error: ReferenceError: email is not defined
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 5:03:03 pm, error: Error: Error inserting data into users: error: column "userrole" of relation "users" does not exist
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 5:04:23 pm, error: ReferenceError: email is not defined
+Error occurred in userController.js, function: registerUser, time: 9/4/2024, 5:06:50 pm, error: ReferenceError: email is not defined
